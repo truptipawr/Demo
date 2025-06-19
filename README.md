@@ -1,2 +1,3 @@
 # Demo
-First git repo
+First git repository
+Author Trupti Pawar
